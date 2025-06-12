@@ -34,6 +34,15 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaalfaatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="nawaalfaatimaa"/> </p>
 
+<h3>🔗 Connect with Me</h3>
+    <p>
+      <a href="https://www.linkedin.com/in/nawal-fatima-961008247/">
+        <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn">
+      </a>
+      <a href="https://stackoverflow.com/users/28072416/nawaalfaatimaa">
+        <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
+      </a>
+      
 
 📬 Contact Me
 
