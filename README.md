@@ -1,4 +1,3 @@
-## Hi there 👋
 <img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/lake.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
