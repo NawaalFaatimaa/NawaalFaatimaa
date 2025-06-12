@@ -1,4 +1,4 @@
-<img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/header_4.gif" width="100%" height="30%" />
+<img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/lake.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Nawal 🌱</h2>
@@ -31,7 +31,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawaalfaatimaa&show_icons=true&theme=transparent&count_private=true)
 <br> <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaalfaatimaa&layout=compact&theme=transparent)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaalfaatimaa&layout=compact&theme=transparent&count_private=true)
 <br> <br>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nawaalfaatimaa&layout=compact&theme=transparent) 
 </div>
