@@ -23,7 +23,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-
+<br/><br/>
 
 📊 GitHub Stats
 
@@ -34,6 +34,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaalfaatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="nawaalfaatimaa"/> </p>
 
+<br/><br/>
+
 🔗 Connect with Me
     <p>
       <a href="https://www.linkedin.com/in/nawal-fatima-961008247/">
@@ -42,7 +44,8 @@
       <a href="https://stackoverflow.com/users/28072416/nawaalfaatimaa">
         <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
       </a>
-      
+
+<br/><br/>
 
 📬 Contact Me
 
