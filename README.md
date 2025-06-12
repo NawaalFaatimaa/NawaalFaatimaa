@@ -29,10 +29,6 @@
 
 <div align="left">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nawaalfaatimaa&show_icons=true&theme=transparent&count_private=true)
-<br> <br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nawaalfaatimaa&layout=compact&theme=transparent&count_private=true)
-<br> <br>
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nawaalfaatimaa&layout=compact&theme=transparent) 
 </div>
 
