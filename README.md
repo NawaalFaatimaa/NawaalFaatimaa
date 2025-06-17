@@ -1,4 +1,4 @@
-<img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/lake.gif" width="100%" height="30%" />
+<img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/header_4.gif" width="100%" height="30%" />
 <spacer width="20"></spacer>
 <div>
 <h2>Hi, I'm Nawal 🌱</h2>
