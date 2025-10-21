@@ -1,5 +1,5 @@
-<img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/header_4.gif" width="100%" height="80%" />
-<spacer width="20"></spacer>
+<!-- <img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/header_4.gif" width="100%" height="80%" /> -->
+<!-- <spacer width="20"></spacer> -->
 <div>
 <h2>Hi, I'm Nawal 🌱</h2>
 
@@ -23,7 +23,7 @@
 ![Postman](https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white)
 
 </div>
-<br/><br/>
+<!-- <br/><br/> -->
 
 📊 GitHub Stats
 
@@ -32,9 +32,9 @@
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=nawaalfaatimaa&layout=compact&theme=transparent) 
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaalfaatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="nawaalfaatimaa"/> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=nawaalfaatimaa&label=Profile%20views&color=0e75b6&style=flat" alt="nawaalfaatimaa"/> </p> -->
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 🔗 Connect with Me
     <p>
@@ -45,7 +45,7 @@
         <img src="https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="StackOverflow">
       </a>
 
-<br/><br/>
+<!-- <br/><br/> -->
 
 📬 Contact Me
 
