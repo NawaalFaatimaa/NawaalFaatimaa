@@ -1,7 +1,7 @@
 <!-- <img src="https://github.com/nawaalfaatimaa/nawaalfaatimaa/blob/main/header_4.gif" width="100%" height="80%" /> -->
 <!-- <spacer width="20"></spacer> -->
 <div>
-<h2>Hi, I'm Nawal 🌱</h2>
+<h2>Hi, I'm Nawal</h2>
 
  ⚙️ Tech Stack
 <div align="center">
